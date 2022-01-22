@@ -15,21 +15,13 @@ I'm a FrontEnd developer 📍living in India
 **Languages and Tools:**
 
 <code><img height="20" src="./assets/html.svg"></code>
-
 <code><img height="20" src="./assets/css.svg"></code>
-
 <code><img height="20" src="./assets/sass.svg"></code>
-
 <code><img height="20" src="./assets/javascript.svg"></code>
-
 <code><img height="20" src="./assets/typescript.svg"></code>
-
 <code><img height="20" src="./assets/nodejs.svg"></code>
-
 <code><img height="20" src="./assets/react.svg"></code>
-
 <code><img height="20" src="./assets/redux.svg"></code>
-
 <code><img height="20" src="./assets/mongodb.svg"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
