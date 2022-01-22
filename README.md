@@ -31,11 +31,11 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <br />
 <br />
 
-<a target="_blank" href="https://www.linkedin.com/in/sahilawasthi/">
-  <img align="right" alt="sahil Awasthi | LinkedIn" width="25px" src="./assets/linkedin.svg" />
+<a target="_blank" href="https://www.buymeacoffee.com/sahilawasthi">
+  <img align="right" alt="Sahil Awasthi | Buy me a coffee" width="22px" src="./assets/starbucks.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/iamsahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Twitter" width="30px" src="./assets/twitter.svg" />
+<a target="_blank" href="https://linktr.ee/sahilawasthi">
+  <img align="right" alt="Sahil Awasthi | Linktree" width="24px" src="./assets/linktree.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/iamsahilawasthi/">
   <img align="right" alt="Sahil Awasthi | Twitter" width="22px" src="./assets/instagram.svg" />
@@ -43,9 +43,9 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <a target="_blank" href="https://www.facebook.com/withsahilawasthi/">
   <img align="right" alt="Sahil Awasthi | Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
-<a target="_blank" href="https://www.buymeacoffee.com/sahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Buy me a coffee" width="22px" src="./assets/starbucks.svg" />
+<a target="_blank" href="https://twitter.com/iamsahilawasthi">
+  <img align="right" alt="Sahil Awasthi | Twitter" width="30px" src="./assets/twitter.svg" />
 </a>
-<a target="_blank" href="https://linktr.ee/sahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Linktree" width="24px" src="./assets/linktree.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/sahilawasthi/">
+  <img align="right" alt="sahil Awasthi | LinkedIn" width="25px" src="./assets/linkedin.svg" />
 </a>
