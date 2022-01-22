@@ -24,6 +24,8 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <code><img height="20" src="./assets/redux.svg" title="Redux" alt="Redux"></code>
 <code><img height="20" src="./assets/mongodb.svg" title="MongoDB" alt="MongoDB"></code>
 <code><img height="20" src="./assets/docker.svg" title="Docker" alt="Docker"></code>
+<code><img height="20" src="./assets/photoshop.svg" title="Photoshop" alt="Photoshop"></code>
+<code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
 | <a href="https://linktr.ee/sahilawasthi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="https://linktr.ee/sahilawasthi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
