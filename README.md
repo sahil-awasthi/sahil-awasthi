@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./assets/readme-header.png" alt="Hi 👋, I'm Sahil"/></a></p>
+<p align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
 
 <br />
 
@@ -31,11 +31,11 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <br />
 
 <a href="https://www.linkedin.com/in/sahilawasthi/">
-  <img align="right" alt="sahil Awasthi | LinkedIn" width="21px" src="./assets/linkedin.svg" />
+  <img align="right" alt="sahil Awasthi | LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://linktr.ee/sahilawasthi">
   <img align="right" alt="Sahil Awasthi | Linktree" width="20px" src="./assets/linktree.svg" />
 </a>
 <a href="https://twitter.com/iamsahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Twitter" width="20px" src="./assets/twitter.svg" />
+  <img align="right" alt="Sahil Awasthi | Twitter" width="25px" src="./assets/twitter.svg" />
 </a>
