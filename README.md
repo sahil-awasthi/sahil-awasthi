@@ -23,7 +23,7 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <code><img height="20" src="./assets/react.svg" title="React.js" alt="React.js"></code>
 <code><img height="20" src="./assets/redux.svg" title="Redux" alt="Redux"></code>
 <code><img height="20" src="./assets/mongodb.svg" title="MongoDB" alt="MongoDB"></code>
-<code><img height="20" src="./assets/docker.svg" title="Docker" alt="Docker"></code>
+<code><img height="20" src="./assets/docker-new.svg" title="Docker" alt="Docker"></code>
 <code><img height="20" src="./assets/photoshop.svg" title="Photoshop" alt="Photoshop"></code>
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
