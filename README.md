@@ -1,10 +1,10 @@
-<p align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
+<p id="banner" align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
 
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India :india:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-awasthi&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Sahil Awasthi profile total views" /> </p>
+<a href="#banner"><p id="profileViews" align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-awasthi&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Sahil Awasthi profile total views" /> </p> </a>
 
 #### About me
 
@@ -27,19 +27,19 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <code><img height="20" src="./assets/photoshop.svg" title="Photoshop" alt="Photoshop"></code>
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
-| <a id='readmeStat' href="#readmeStat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#readmeStat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#profileViews"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#profileViews"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#readmeStat)                                       | ![Rick Roll](./assets/rick-rolled.gif)                                                                                                                                                             |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#profileViews)                                       | [![Rick Roll](./assets/rick-rolled.gif)](#profileViews)                                                                                                                                                             |
 
 <br />
 <br />
 
-<a target="_blank" href="https://www.buymeacoffee.com/sahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Buy me a coffee" width="22px" src="./assets/starbucks.svg" />
+<a href="https://www.buymeacoffee.com/sahilawasthi?target=_blank">
+  <img align="right" src="./assets/starbucks.svg"  width="22px" alt="Sahil Awasthi | Buy me a coffee" />
 </a>
-<a target="_blank" href="https://linktr.ee/sahilawasthi">
+<a href="https://linktr.ee/sahilawasthi?target=_blank">
   <img align="right" alt="Sahil Awasthi | Linktree" width="24px" src="./assets/linktree.svg" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/sahilawasthi/">
+<a href="https://www.linkedin.com/in/sahilawasthi?target=_blank">
   <img align="right" alt="sahil Awasthi | LinkedIn" width="25px" src="./assets/linkedin.svg" />
 </a>
