@@ -27,9 +27,9 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 <code><img height="20" src="./assets/photoshop.svg" title="Photoshop" alt="Photoshop"></code>
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
-| <a href="https://linktr.ee/sahilawasthi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="https://linktr.ee/sahilawasthi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](https://linktr.ee/sahilawasthi)                                       | ![Rick Roll](./assets/rick-rolled.gif)                                                                                                                                                             |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#)                                       | ![Rick Roll](./assets/rick-rolled.gif)                                                                                                                                                             |
 
 <br />
 <br />
@@ -39,15 +39,6 @@ I'm a self-taught passionate FrontEnd developer from India :india:
 </a>
 <a target="_blank" href="https://linktr.ee/sahilawasthi">
   <img align="right" alt="Sahil Awasthi | Linktree" width="24px" src="./assets/linktree.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/iamsahilawasthi/">
-  <img align="right" alt="Sahil Awasthi | Twitter" width="22px" src="./assets/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/withsahilawasthi/">
-  <img align="right" alt="Sahil Awasthi | Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/iamsahilawasthi">
-  <img align="right" alt="Sahil Awasthi | Twitter" width="30px" src="./assets/twitter.svg" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/sahilawasthi/">
   <img align="right" alt="sahil Awasthi | LinkedIn" width="25px" src="./assets/linkedin.svg" />
