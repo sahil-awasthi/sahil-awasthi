@@ -1,4 +1,4 @@
-<p id="banner" align="center"><a href="https://github.com/sahil-awasthi"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
+<p id="banner" align="center"><a href="#banner"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
 
 <br />
 
