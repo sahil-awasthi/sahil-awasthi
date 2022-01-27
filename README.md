@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate **FrontEnd developer** from India :india:
+<span align="left"> I'm a self-taught passionate **FrontEnd developer** from India :india: </span><a href="#no_route"><img align="right" src="https://komarev.com/ghpvc/?username=sahil-awasthi&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Sahil Awasthi profile total views" /> </a>
 
 #### About me
 
@@ -26,13 +26,12 @@ I'm a self-taught passionate **FrontEnd developer** from India :india:
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
 | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#no_route)                                       | [![Rick Roll](./assets/rick-rolled.gif)](#profileViews)                                                                                                                                                             |
+| - | - |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#no_route)                                             | [![Rick Roll](./assets/rick-rolled.gif)](#profileViews)                                                                                                                                                             |
 
 <br />
 <br />
 
-<a href="#no_route"><span align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-awasthi&label=PROFILE+VIEWS&color=red&style=flat-square" alt="Sahil Awasthi profile total views" /> </span> </a>
 <a href="https://www.buymeacoffee.com/sahilawasthi/">
   <img align="right" src="./assets/starbucks.svg"  width="22px" alt="Sahil Awasthi | Buy me a coffee" />
 </a>
