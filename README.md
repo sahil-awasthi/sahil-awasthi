@@ -1,4 +1,4 @@
-<p id="banner" align="center"><a href="#banner"><img width="100%" src="./assets/readme-header-big.png" alt="Hi 👋, I'm Sahil"/></a></p>
+<p id="banner" align="center"><a href="#banner"><img width="100%" src="./assets/git-backdrop.png" alt="Hi 👋, I'm Sahil"/></a></p>
 
 <br />
 
@@ -26,8 +26,8 @@
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
 
 | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
-| - | - |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#no_route)                                             | [![Rick Roll](./assets/rick-rolled.gif)](#profileViews)                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahil-awasthi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FA5577&currStreakLabel=FA5577&sideNums=8E72DC&dates=555555)](#no_route)                                       | [![Rick Roll](./assets/rick-rolled.gif)](#profileViews)                                                                                                                       |
 
 <br />
 <br />
