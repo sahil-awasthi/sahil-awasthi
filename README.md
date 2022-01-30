@@ -1,4 +1,4 @@
-<p id="banner" align="center"><a href="#banner"><img width="100%" src="./assets/git-backdrop.gif" alt="Hi 👋, I'm Sahil"/></a></p>
+<p id="banner" align="center"><a href="#banner"><img width="100%" src="./assets/git-backdrop-gif-2.gif" alt="Hi 👋, I'm Sahil"/></a></p>
 
 <br />
 
