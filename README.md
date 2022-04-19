@@ -6,7 +6,7 @@
 
 #### About me
 
-- 🧑🏻‍💻 FrontEnd Engineer at **Envision Labs**
+- 🧑🏻‍💻 FrontEnd Engineer at **Itera**
 
 - 📮 Let's get in touch [🔗Mail me](mailto:connectwithsahilawasthi@gmail.com)
 
