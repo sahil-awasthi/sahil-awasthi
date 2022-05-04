@@ -24,6 +24,7 @@
 <code><img height="20" src="./assets/docker-new.svg" title="Docker" alt="Docker"></code>
 <code><img height="20" src="./assets/photoshop.svg" title="Photoshop" alt="Photoshop"></code>
 <code><img height="20" src="./assets/illustrator.svg" title="Illustrator" alt="Illustrator"></code>
+<code><img height="20" src="./assets/cypress.svg" title="Cypress" alt="Cypress"></code>
 
 | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-awasthi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&hide=contribs" alt="Sahil's github stats" /></a> | <a href="#no_route"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-awasthi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
